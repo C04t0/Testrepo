@@ -11,5 +11,6 @@ public class AreaHex {
         System.out.println(areaHex);
         keyboard.close();
     }
+    for (int i =0; i < 2; i++)
 }
 
